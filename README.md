@@ -1,2 +1,6 @@
-# Gas-Care-frontend
-このプロジェクトはGas-Careのフロントエンドです。
+# Gas Care Frontend
+
+このプロジェクトはGas-Careのフロントエンド部分です。
+
+## フォルダ構造
+
